@@ -1,0 +1,33 @@
+body {
+  background-image: url("https://i.scdn.co/image/68c48edfc95e99a4aba74da8ce9dce77c47b1ed8");
+}
+
+#title, h3 {
+  text-align: center;
+  color: Indigo;
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+article {
+  color: Indigo;
+  font-family: Georgia;
+  font-weight: normal;
+}
+
+table {
+  border: 2px solid indigo;
+  width: 650px;
+  margin: 0 auto;
+  color: indigo;
+}
+
+thead {
+  background-color: Indigo;
+  color: azure;
+}
+
+td {
+  border-top: 1px solid indigo;
+}
+
